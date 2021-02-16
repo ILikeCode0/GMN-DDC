@@ -25,7 +25,7 @@ Dataset:
 
 [Non-duplicate PRs for training set](https://github.com/ILikeCode0/GMN-DDC/blob/main/data/clf/first_nondup.txt)
 
-[Non-duplicate PRs for testing set](https://github.com/ILikeCode0/GMN-DDC/blob/main/data/clf/second_nondup.txt)
+[Non-duplicate PRs for testing set](https://github.com/ILikeCode0/GMN-DDC/blob/main/data/clf/test.txt)
 
 ---
 If you want to use our model quickly, you first need to obtain the data information `getData.py`, then use the obtained information to compose the graph     `getGraph_remove.py`, and use the composed graph to train the `gmn/train.py`, finally use the trained model to test `gmn/getResult.py` 
