@@ -57,7 +57,7 @@ If you want to use our model quickly, you first need to obtain the data informat
       
     `remove_XXX_N.train_graphs`、`remove_XXX_N.train_val_graphs`and`remove_XXX_N.test_graphs`
     
-    >Note: XXX 可以为` `、`title`、`body`,Respectively indicate that all features are retained during the composition process, the title text is removed, and the body text is removed;
+    >Note: XXX can be` `、`title`、`body`,Respectively indicate that all features are retained during the composition process, the title text is removed, and the body text is removed;
      Where N represents the size of the sliding window used in composition. 
 
 + gmn/train.py  
